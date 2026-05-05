@@ -1,6 +1,6 @@
 # Hi, I'm Jakub 👋
 
-Backend software engineer based in Poznań, Poland. 12+ years building
+Software engineer based in Poznań, Poland. 12+ years building
 distributed, high-traffic systems — mostly in Java on GCP.
 
 ## What I'm doing now
