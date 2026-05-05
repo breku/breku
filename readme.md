@@ -45,4 +45,4 @@ distributed, high-traffic systems — mostly in Java on GCP.
 
 ## 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-br%C4%99k-72267a44/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubbrek/)
